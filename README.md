@@ -12,16 +12,20 @@ B.S. Student
 Business Support System Q&A TextMining</p>
 Automating LSTM-based Q&A Task Selection
 
-# Experience💻
+# Prize🏆
 ### - The 1st NH Investment & Securities CO. Big Data Competition
-AI-based ad news detection contest 1st place
+AI-based ad news detection contest 1st place 🥇
 
 ### - Seoul Metropolitan Government Big Data Campus Contest
-Analysis of the Location of Residential Welfare for Single-person Families 3rd place
+Analysis of the Location of Residential Welfare for Single-person Families 3rd place 🥉
 
 ### - Hanium ICT Contest
-User Symptom Based Drug Recommendation Chatbot
+User Symptom Based Drug Recommendation Chatbot 🎖
 
+# Certificate📃
+### - BigData Analysis Engineer
+### - Advanced Data Analytics Semi-Professional
+### - Structured Query Language Developer
 
 ### Contact
 ghddbsvy1130@naver.com </p>
