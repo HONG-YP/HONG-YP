@@ -26,6 +26,7 @@ User Symptom Based Drug Recommendation Chatbot 🎖
 ### - BigData Analysis Engineer
 ### - Advanced Data Analytics Semi-Professional
 ### - Structured Query Language Developer
+### - Advanced Machine Learning and Signal Processing (IBM)
 
 ### Contact
 ghddbsvy1130@naver.com </p>
