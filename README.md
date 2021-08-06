@@ -8,7 +8,7 @@ Department of Industrial and Management Engineering </p>
 B.S. Student
 
 # Career💼
-### - KOREA LOCAL INFORMATION RESEARCH & DEVELOPMENT INSTITUTE Student Intern
+### - KOREA LOCAL INFORMATION RESEARCH & DEVELOPMENT INSTITUTE Intern
 Business Support System Q&A TextMining</p>
 Automating LSTM-based Q&A Task Selection
 
