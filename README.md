@@ -14,7 +14,7 @@ Automating LSTM-based Q&A Task Selection
 
 ### - NH Investment & Securities CO.,LTD. Intern
 News & Research Data NER project</p>
-Rule & AI Based Stock Market Search Engine Improvement
+Improved Rules & AI-based stock market search engines
 
 # Prize🏆
 ### - The 1st NH Investment & Securities CO.,LTD. Big Data Competition
