@@ -12,8 +12,12 @@ B.S. Student
 Business Support System Q&A TextMining</p>
 Automating LSTM-based Q&A Task Selection
 
+### - NH Investment & Securities CO.,LTD. Intern
+News & Research Data NER project</p>
+Rule & AI Based Stock Market Search Engine Improvement
+
 # Prize🏆
-### - The 1st NH Investment & Securities CO. Big Data Competition
+### - The 1st NH Investment & Securities CO.,LTD. Big Data Competition
 AI-based ad news detection contest 1st place 🥇
 
 ### - Seoul Metropolitan Government Big Data Campus Contest
