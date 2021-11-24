@@ -16,6 +16,8 @@ Automating LSTM-based Q&A Task Selection
 News & Research Data NER project</p>
 Improved Rules & AI-based stock market search engines
 
+### - KB Kookmin Card Co., Ltd.
+
 # Prize🏆
 ### - The 1st NH Investment & Securities CO.,LTD. Big Data Competition
 AI-based ad news detection contest 1st place 🥇
